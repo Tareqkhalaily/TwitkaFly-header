@@ -4,7 +4,7 @@
 
 @interface LibTwitkaFly : NSObject
 
-+ (id) sharedTwitkaFly;
++ (id) sharetareq;
 - (BOOL) showSheetWithInitialText:(NSString *)text andInitialImage:(UIImage *)image;
 - (BOOL) hideSheet;
 
